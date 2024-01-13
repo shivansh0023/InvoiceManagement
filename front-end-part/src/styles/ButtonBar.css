@@ -1,0 +1,48 @@
+.bar {
+  background-color: #283a46;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap !important;
+}
+.bg {
+  width: 100%;
+}
+.button {
+  width: 100%;
+  height: auto;
+  color: white !important;
+  overflow: hidden;
+  min-width: 0px !important;
+}
+.deleteWarning {
+  color: white !important;
+}
+.formButton {
+  width: 100%;
+  border: 1px solid #ffffff !important;
+  color: white !important;
+}
+.formTitle {
+  color: white !important;
+}
+.input {
+  border-radius: 5px;
+  background-color: white;
+}
+.MuiPaper-root {
+  height: auto;
+  background-color: #2a3e4c !important;
+  color: white !important;
+}
+.predict {
+  border: 1px solid #ffffff !important;
+  background-color: #14afff !important;
+}
+.text {
+  border-radius: 10px;
+  background-color: white;
+  width: 100%;
+  height: auto;
+  text-overflow: ellipsis;
+}

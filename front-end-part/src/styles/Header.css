@@ -1,0 +1,27 @@
+body {
+  background-color: #2a3e4c;
+  overflow: hidden;
+}
+.Header {
+  display: grid;
+  background-color: #2a3e4c;
+  height: 8vh;
+  display: flex;
+}
+.logo1 {
+  height: 43px;
+  width: 240px;
+  margin: auto;
+  margin-left: 0;
+}
+.logo2 {
+  height: 40px;
+  width: 180px;
+  margin: auto;
+  margin-left: 0vw !important;
+}
+.Title {
+  color: white;
+  font-size: medium;
+  font-family: sans-serif;
+}

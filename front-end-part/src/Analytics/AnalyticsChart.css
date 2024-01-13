@@ -1,0 +1,26 @@
+.barChart{
+    width: 90% !important;
+    height: auto;
+    background-color: white !important;
+    padding-bottom: 10% !important;
+}
+.chart{
+    background-color: white !important;
+    color: black;
+}
+.chartTitle{
+    color: black;
+    text-align: center !important;
+    background-color: white !important;
+}
+.closeButton{
+    background-color: red;
+    color: white !important;
+}
+.pieChart{
+    width: 50% !important;
+    height: auto;
+    background-color: white !important;
+    text-align: center !important;
+    margin: 0 auto;
+}

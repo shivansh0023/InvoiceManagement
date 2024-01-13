@@ -1,0 +1,39 @@
+.datagrid{
+  height: 76.6vh !important;
+  width: 100%;
+  background-color: #283a46 !important;
+}
+.MuiDataGrid-cell {
+  background-color: #2a3e4c;
+  color: white;
+}
+.MuiDataGrid-columnHeadersInner {
+  background-color: #283a46 !important;
+  color: white;
+}
+.MuiDataGrid-columnHeaderTitle {
+  line-height: 1.43 !important;
+  white-space: break-spaces !important;
+  width: 90px !important;
+  height: 60px !important;
+  word-spacing: 80px !important;
+  word-break: keep-all;
+  text-overflow: clip !important;
+}
+.MuiDataGrid-footerContainer {
+  background-color: #283a46 !important;
+}
+.MuiDataGrid-iconSeparator {
+  visibility: hidden;
+}
+.MuiDataGrid-root {
+  color: #283a46 !important;
+  border-style: none !important;
+  height: 76.79vh !important;
+}
+.MuiSvgIcon-root {
+  color: white;
+}
+.MuiToolbar-root{
+  color: white;
+}
